@@ -7,8 +7,8 @@ public class Team <T extends Participant> {
     private String name;
     private List<T> participants = new ArrayList<>();
 
-    public Team(String name) {
-        this.name = name;
+    public Team(String name1) {
+        this.name = name1;
     }
 
     public void addNewParticipant(T participant){

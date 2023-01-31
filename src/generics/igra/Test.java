@@ -1,6 +1,6 @@
 package generics.igra;
 
-public class Test {
+ public class Test {
     public static void main(String[] args) {
         Schoolar schoolar1 = new Schoolar("Ivan", 12);
         Schoolar schoolar2 = new Schoolar("Petr", 15);
